@@ -1,0 +1,30 @@
+_model: page
+---
+title: Linux Cheatsheet
+---
+body:
+
+|   |   |
+|--|--|
+|**uname -a** | Show system and kernel
+|**man command** | Show manual for command
+|**pwd** | Show current directory
+|**mkdir dir** | Make directory dir
+|**cd dir** | Change directory to dir
+|**cd ..** | Go up a directory
+|**ls** | List files
+|**Ctrl+Insert or Ctrl+Shift+C**|  for copying in the terminal
+|**Shift+Insert or Ctrl+Shift+V**| for pasting text in the terminal 
+|**Ctrl-c** | Stop current command
+|**Ctrl-z** | Sleep program
+|**Ctrl + Alt + T**| to open a Terminal window
+|**touch file1** | Create file1
+|**cat file1 file2** | Concat­enate files and output
+|**cp file1 file2** | Copy file1 to file2
+|**mv file1 file2** | Move file1 to file2
+|**rm file1** | Delete file1
+|**top** | Show real time processes
+
+***See more at:***
+
+https://cheatography.com/davechild/cheat-sheets/linux-command-line/
