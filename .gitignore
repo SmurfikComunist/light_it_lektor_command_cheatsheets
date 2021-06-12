@@ -1,6 +1,10 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-venv/
-.idea/
-*.bak
 *.pyc
+
+# Environments
+venv/
 .env
+
+# Editor
+.idea/
