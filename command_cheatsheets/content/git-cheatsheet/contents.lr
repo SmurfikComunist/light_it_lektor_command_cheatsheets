@@ -1,0 +1,20 @@
+_model: page
+---
+title: Git Cheatsheet
+---
+body:
+
+|   |   |
+|--|--|
+|**git init** | Create empty Git repo in specified directory. Run with no arguments to initialize the current directory as a git repository.|
+|**git clone** | Clone repo located at onto local machine. Original repo can be located on the local filesystem or on a remote machine via HTTP or SSH
+|**git add** | Stage all changes in for the next commit. Replace with a to change a specific file.
+|**git commit -m ""** | Commit the staged snapshot, but instead of launching a text editor, use as the commit message.
+|**git status** | List which files are staged, unstaged, and untracked.
+|**git log** | Display the entire commit history using the default format. For customization see additional options.
+|**git diff** | Show unstaged changes between your index and working directory.
+
+
+***See more at:***
+
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
